@@ -1,7 +1,7 @@
-Welcome to the DividedJob wiki!
-This is a enhanced job from play’s job.
-I made the job-pool can be as many as you want.So that,you may send your job to different job-pool.
-Sometimes, some jobs may take a long time to process, and the job-pool will be hang-up.
-So it is necessary to divide different jobs into different job-pools.
+Welcome to DividedJobs
+DividedJobs is an enhanced version of play's Job.
+Here you can set up as many job-pools as you can if necessary. 
+By doing this, you can put your job into different job-pools.
+It is useful in preventing job-pool from being hung-up for some job take long time to process.
 
-If you wanna know how to use, you can see "How to use DividedJob":https://github.com/mayan31370/DividedJob/wiki/How-to-use-DividedJob
+And you can get more information about DividedJobs in "How to use DividedJob":https://github.com/mayan31370/DividedJob/wiki/How-to-use-DividedJob
