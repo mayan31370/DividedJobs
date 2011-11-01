@@ -4,4 +4,4 @@ Here you can set up as many job-pools as you can if necessary.
 By doing this, you can put your job into different job-pools.
 It is useful in preventing job-pool from being hung-up for some job take long time to process.
 
-And you can get more information about DividedJobs in "How to use DividedJob":https://github.com/mayan31370/DividedJob/wiki/How-to-use-DividedJob
+And you can get more information about DividedJobs in "How to use DividedJob":https://github.com/mayan31370/DividedJobs/wiki/How-to-use-DividedJob
